@@ -9,6 +9,7 @@ namespace AddressBook
 
     public class Contact
     {
+
         //Using get and set method to access 
         public string FirstName { get; set; }
         public string LastName { get; set; }
